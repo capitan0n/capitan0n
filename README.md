@@ -8,7 +8,7 @@ Electrical & Computer Engineering student at the University of Peloponnese, spec
 
 - **[sshd-lint](https://github.com/capitan0n/sshd-lint)** - Static analyzer for `sshd_config`. Encodes OpenSSH hardening best practices into repeatable, automated checks so misconfigurations get caught before they ship.
 
-- **[probolos](https://github.com/capitan0n/probolos)** *(alpha)* - USB port monitoring and control tool aimed at physical-access and data-exfiltration risks.
+- **[probolos](https://github.com/capitan0n/probolos)** *(beta)* — Deny-by-default USB gate for Linux: new devices stay blocked until you approve them, after identity, behaviour and storage checks. Defends against BadUSB and rogue keyboards. [![PyPI](https://img.shields.io/pypi/v/probolos)](https://pypi.org/project/probolos/)
 
 - **Digital forensics tooling** *(private, in progress)* - to be published.
 
