@@ -10,6 +10,8 @@ Electrical & Computer Engineering student at the University of Peloponnese, spec
 
 - **[probolos](https://github.com/capitan0n/probolos)** *(beta)* — Deny-by-default USB gate for Linux: new devices stay blocked until you approve them, after identity, behaviour and storage checks. Defends against BadUSB and rogue keyboards.
 
+- **[droynis](https://github.com/capitan0n/droynis)** — Offline Android security audit with 54 hardening checks across ADB/Shizuku/root tiers, reproducible, signed builds, published on F-Droid.
+
 - **Digital forensics tooling** *(private, in progress)* - to be published.
 
 ### Stack
