@@ -6,9 +6,9 @@ Electrical & Computer Engineering student at the University of Peloponnese, spec
 
 - **[dnser](https://github.com/capitan0n/dnser)** - Zero-dependency Python CLI, published on PyPI, that switches Linux DNS through NetworkManager or systemd-resolved, with DNS-over-TLS, leak-safe fallback, benchmarking and one-command rollback. Security-hardened root operations and automated CI/CD releases with OIDC trusted publishing.
 
-- **[sshd-lint](https://github.com/capitan0n/sshd-lint)** - Static analyzer for `sshd_config`. Encodes OpenSSH hardening best practices into repeatable, automated checks so misconfigurations get caught before they ship.
+- **[sshd-lint](https://github.com/capitan0n/sshd-lint)** - Static analyzer for `sshd_config`. Encodes OpenSSH hardening best practices into repeatable, automated checks so misconfigurations get caught before they ship. Published on PyPI.
 
-- **[probolos](https://github.com/capitan0n/probolos)** *(beta)* — Deny-by-default USB gate for Linux: new devices stay blocked until you approve them, after identity, behaviour and storage checks. Defends against BadUSB and rogue keyboards.
+- **[probolos](https://github.com/capitan0n/probolos)** *(beta)* — Deny-by-default USB gate for Linux: new devices stay blocked until you approve them, after identity, behaviour and storage checks. Defends against BadUSB and rogue keyboards. Published on PyPI.
 
 - **[droynis](https://github.com/capitan0n/droynis)** — Offline Android security audit with 54 hardening checks across ADB/Shizuku/root tiers, reproducible, signed builds, published on F-Droid.
 
