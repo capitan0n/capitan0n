@@ -4,7 +4,7 @@ Electrical & Computer Engineering student at the University of Peloponnese, spec
 
 ### What I'm working on
 
-- **[droynis](https://github.com/capitan0n/droynis)** — Offline Android security audit with 54 hardening checks across ADB/Shizuku/root tiers, reproducible, signed builds, published on F-Droid.
+- **[droynis](https://github.com/capitan0n/droynis)** — Offline Android security audit with 65 hardening checks across ADB/Shizuku/root tiers, reproducible, signed builds, published on F-Droid.
 
 - **[dnser](https://github.com/capitan0n/dnser)** - Zero-dependency Python CLI, published on PyPI, that switches Linux DNS through NetworkManager or systemd-resolved, with DNS-over-TLS, leak-safe fallback, benchmarking and one-command rollback. Security-hardened root operations and automated CI/CD releases with OIDC trusted publishing.
 
