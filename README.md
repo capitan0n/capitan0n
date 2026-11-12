@@ -13,7 +13,6 @@ Electrical & Computer Engineering student at the University of Peloponnese, spec
 </p>
 
 
-### [Droynis](https://github.com/capitan0n/droynis)
 
 A read-only security and privacy audit for Android, inspired by Lynis. Droynis checks the phone it runs on, explains every finding with the raw evidence, and opens the Settings screen that fixes it. It never changes anything itself.
 
