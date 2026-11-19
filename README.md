@@ -16,6 +16,8 @@ Electrical & Computer Engineering student at the University of Peloponnese, spec
 
 A read-only security and privacy audit for Android, inspired by Lynis. Droynis checks the phone it runs on, explains every finding with the raw evidence, and opens the Settings screen that fixes it. It never changes anything itself.
 
+[Visit the Droynis website](https://capitan0n.github.io/droynis/)
+
 - **100+ hardening checks**: device integrity, access control, apps and permissions, suspicious apps, network and radios. [Full catalog](https://github.com/capitan0n/droynis/blob/main/docs/CHECKS.md).
 - **Four privilege tiers**: Base (public APIs), ADB, Shizuku and opt-in Root. Privileged tiers run only a fixed list of read-only commands.
 - **Offline by design**: no `INTERNET` permission, no Google Play Services, no analytics.
